@@ -15,7 +15,7 @@ APRI APP AMAZOMON               /* diamo per scontato che abbiamo un account */
 
                             /*variabili fondamentali: Data di consegna, Budget, gusti ( in casi estremi un libro ) */
 
-                                    /* *lista desideri in ordine :1 LAMPADA ,2 PENNA STILOGRAFICA,3 LIBRO*/
+                                      /* *lista desideri in ordine :1 LAMPADA ,2 PENNA STILOGRAFICA,3 LIBRO*/
     
 
     CREA LISTA DESIDERI E LISTA SCARTATI
